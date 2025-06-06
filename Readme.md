@@ -1,5 +1,5 @@
 
-# 0G
+# TAC Chain
 
 ![0G Image](https://i.ibb.co/wNcjWZ0R/Tac-Chain.png)
 
