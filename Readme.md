@@ -8,10 +8,9 @@
 ## Community Links
 
 - [Discord](https://discord.gg/NYhFQ3xMrc)
-- [0G Labs Twitter](https://x.com/TacBuild)
-- [0G Website](https://tac.build/)
-- [0G GitBook/Docs](https://zerogravity.gitbook.io/0g-doc/)
-- [0G Telegram](https://t.me/tacbuild)
+- [TAC Chain Twitter](https://x.com/TacBuild)
+- [TAC Chain Website](https://tac.build/)
+- [TAC Chain Telegram](https://t.me/tacbuild)
 - [Blockchain Explorer](https://explorer.dksnodes.com/TACChain)
 
 ---
