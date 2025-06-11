@@ -212,4 +212,15 @@ tacchaind tx staking create-validator validatortx.json \
     --gas auto --gas-adjustment 1.4 --fees 9503625000000000utac -y
 ```
 
+# ☀️ Staking Delegate
+```bash
+tacchaind tx staking delegate tacvaloperXXXXXXX 9900000000000000000utac \
+  --from wallet \
+  --chain-id tacchain_2391-1 \
+  --node http://localhost:59657 \
+  --gas auto --gas-adjustment 1.4 \
+  --fees 9503625000000000utac -y
+
+```
+
 
